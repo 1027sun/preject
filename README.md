@@ -21,7 +21,7 @@
 <img width="949" height="533" alt="屏幕截图 2026-09-10 174309" src="https://github.com/user-attachments/assets/5bd621da-03e6-40d1-a187-94749fe4e437" />
 <img width="953" height="532" alt="屏幕截图 2026-09-10 174251" src="https://github.com/user-attachments/assets/e818bedb-2fdc-43b4-abd2-f23e98bea000" />
 <img width="953" height="535" alt="屏幕截图 2026-09-10 174331" src="https://github.com/user-attachments/assets/dfdbe14a-35cb-485d-83f5-3a9674716f58" />
-<img width="400" height="239" alt="屏幕录制 2026-09-10 164042" src="https://github.com/user-attachments/assets/a7dca967-dab1-41c0-8210-641cf34ce593" />
+<img width="953" height="535" alt="屏幕录制 2026-09-10 164042" src="https://github.com/user-attachments/assets/a7dca967-dab1-41c0-8210-641cf34ce593" />
 
 
 
