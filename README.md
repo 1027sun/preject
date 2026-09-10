@@ -11,3 +11,10 @@
 安装、45 秒动作测试、接口说明和游戏接入代码见 [README_CAMERA.md](README_CAMERA.md)。
 
 当前按 Python 游戏接入，公开控制接口保持六个字段。
+
+## preject_python_class
+有完整的项目，包括视觉识别与游戏逻辑及界面；
+-可以直接运行game_ui_acheive下的game.py
+有键盘模式与体态模式两个选择<img width="946" height="536" alt="屏幕截图 2026-09-10 174245" src="https://github.com/user-attachments/assets/f0776249-e003-4a5c-8203-aaf014d75642" />
+如下是一些画面和视频：
+![Uploading 屏幕截图 2026-09-10 174245.png…]()
