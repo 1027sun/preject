@@ -1,0 +1,5 @@
+# Tested with Python 3.12 on Windows; use setup_camera.bat.
+mediapipe==0.10.35
+opencv-contrib-python==4.14.0.94
+numpy==2.5.3
+pillow==12.3.0

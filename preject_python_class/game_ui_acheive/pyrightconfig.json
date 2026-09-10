@@ -1,0 +1,6 @@
+{
+  "extraPaths": ["D:/preject_python_class/camera_behavior_detect"],
+  "executionEnvironments": [
+    { "root": "D:/preject_python_class/game_ui_acheive", "extraPaths": ["D:/preject_python_class/camera_behavior_detect"] }
+  ]
+}

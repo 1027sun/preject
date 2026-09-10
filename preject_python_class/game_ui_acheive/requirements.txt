@@ -1,0 +1,6 @@
+# 键盘模式与界面只需要下面两项。
+pygame-ce>=2.5.2
+numpy>=1.26
+
+# 体态模式还需要摄像头模块的依赖，见 ../camera_behavior_detect/requirements.txt
+# （mediapipe、opencv-contrib-python、pillow）。只有体态模式会用到它们。
