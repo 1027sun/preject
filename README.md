@@ -12,7 +12,7 @@
 
 当前按 Python 游戏接入，公开控制接口保持六个字段。
 
-## preject_python_class
+## preject_python_class这个文件夹中
 有完整的项目，包括视觉识别与游戏逻辑及界面；\
 可以直接运行game_ui_acheive下的game.py\
 有键盘模式与体态模式两个选择\
@@ -23,8 +23,7 @@
 <img width="953" height="532" alt="屏幕截图 2026-09-10 174251" src="https://github.com/user-attachments/assets/e818bedb-2fdc-43b4-abd2-f23e98bea000" />
 <img width="953" height="535" alt="屏幕截图 2026-09-10 174331" src="https://github.com/user-attachments/assets/dfdbe14a-35cb-485d-83f5-3a9674716f58" />
 <img width="953" height="535" alt="屏幕录制 2026-09-10 164042" src="https://github.com/user-attachments/assets/a7dca967-dab1-41c0-8210-641cf34ce593" />
-
-
+之后可能会不断完善
 
 
 
