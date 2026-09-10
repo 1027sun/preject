@@ -17,6 +17,7 @@
 可以直接运行game_ui_acheive下的game.py\
 有键盘模式与体态模式两个选择\
 下面是一些游戏画面与视频：\
+
 <img width="946" height="536" alt="屏幕截图 2026-09-10 174245" src="https://github.com/user-attachments/assets/c587e9b0-a804-4750-9734-b4438761ffd6" />
 <img width="949" height="533" alt="屏幕截图 2026-09-10 174309" src="https://github.com/user-attachments/assets/5bd621da-03e6-40d1-a187-94749fe4e437" />
 <img width="953" height="532" alt="屏幕截图 2026-09-10 174251" src="https://github.com/user-attachments/assets/e818bedb-2fdc-43b4-abd2-f23e98bea000" />
